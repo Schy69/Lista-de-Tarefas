@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    border: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://wallpaperbat.com/img/7744251-minimal-nature-wallpaper.jpg");
+}
+
+#tarefa {
+    width: 300px;
+    height: 30px;
+    padding: 7px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    opacity: 0.8;
+}
+
+#button {
+    background-color: rgba(240, 248, 255, 0);
+    margin-left: 5px;
+    float: right;
+}
+
+#buttonimg {
+    height: 45px;
+    width: 45px;
+    opacity: 0.8;
+}
